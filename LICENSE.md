@@ -1,4 +1,4 @@
-# 
+# Personalizado Pixelle-Video preajustes. Con soporte multilenguaje y monitoreo de modelos — optimizado para el máximo rendimiento y eficiencia.
 
 
 
